@@ -26,8 +26,9 @@
     },
     "header-row#main": {
         "props": {
+            "inverted": true,
             "sticky": true,
-            "inverted": true
+            "fullWidth": false
         },
         "children": [
             "logo",
