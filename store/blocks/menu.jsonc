@@ -30,7 +30,7 @@
             "menu-item#coffee"
         ]
     },
-    "vtex.menu@2.x:menu#eletronics": {
+    "vtex.menu@2.x:menu#electronics": {
         "props": {
             "orientation": "vertical"
         },
@@ -51,9 +51,9 @@
             "vtex.menu@2.x:menu#small"
         ]
     },
-    "vtex.menu@2.x:submenu#eletronics": {
+    "vtex.menu@2.x:submenu#electronics": {
         "children": [
-            "vtex.menu@2.x:menu#eletronics"
+            "vtex.menu@2.x:menu#electronics"
         ]
     }
 }
