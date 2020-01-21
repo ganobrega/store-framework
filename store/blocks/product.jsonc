@@ -38,7 +38,7 @@
     "children": [
       "product-images",
       "product-brand"
-    ],
+    ]
   },
   "product-brand": {
     "props": {
